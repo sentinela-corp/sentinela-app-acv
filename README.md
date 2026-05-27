@@ -1,4 +1,4 @@
-# Sentinela Fire ACV
+# Sentinela
 
 Projeto da Global Solution 2026 para a disciplina **Applied Computer Vision**.
 
@@ -15,6 +15,10 @@ O modelo usa as imagens `umida.jpg`, `seca.jpg` e `queimada.jpg` como base do da
 - Deivison Pertel - RM 550803
 - Eduardo Akira Murata - RM 98713
 - Wesley Souza de Oliveira - RM 97874
+
+## Vídeo no YouTube
+
+- https://youtu.be/wISb3DvKbSQ
 
 ## Arquivos do projeto
 
